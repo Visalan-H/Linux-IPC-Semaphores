@@ -110,7 +110,7 @@ if(NUM_LOOPS>=10)    {
     
     return 0;
 }
-````
+```
 
 
 
@@ -118,13 +118,8 @@ if(NUM_LOOPS>=10)    {
 #### $ ./sem.o 
 ![image](https://github.com/user-attachments/assets/10b09d08-85d4-480c-8ebd-2bd7bb6d1c98)
 
-
 #### $ ipcs
 ![image](https://github.com/user-attachments/assets/80aa2017-fb6f-4c3b-b247-53298cc16131)
-
-
-
-
 
 # RESULT:
 The program is executed successfully.
